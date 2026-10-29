@@ -1,0 +1,101 @@
+uid,login_email,ext_crm_id,created_ts
+9001,user9001@example.com,,2026-06-28
+9002,user9002@example.com,ACCT#1029,25/02/2026
+9003,user9003@example.com,,04-26-2026 14:22:00
+9004,user9004@example.com,ACCT#1046,
+9005,user9005@example.com,,20/03/2026
+9006,user9006@example.com,ACCT#1014,2026-04-26
+9007,user9007@example.com,,10-12-2026 14:22:00
+9008,user9008@example.com,ACCT#1039,09-06-2026 14:22:00
+9009,user9009@example.com,,05-10-2026 14:22:00
+9010,user9010@example.com,ACCT#1033,
+9011,user9011@example.com,,09/01/2026
+9012,user9012@example.com,ACCT#1045,08/03/2026
+9013,user9013@example.com,,27/06/2026
+9014,user9014@example.com,ACCT#1049,16/07/2026
+9015,user9015@example.com,,10-21-2026 14:22:00
+9016,user9016@example.com,ACCT#1041,
+9017,user9017@example.com,,2026-02-21
+9018,user9018@example.com,ACCT#1026,09-24-2026 14:22:00
+9019,user9019@example.com,,
+9020,user9020@example.com,ACCT#1021,2026-10-01
+9021,user9021@example.com,,08-21-2026 14:22:00
+9022,user9022@example.com,ACCT#1005,13/09/2026
+9023,user9023@example.com,,27/07/2026
+9024,user9024@example.com,ACCT#1032,05-11-2026 14:22:00
+9025,user9025@example.com,,18/06/2026
+9026,user9026@example.com,ACCT#1037,08-26-2026 14:22:00
+9027,user9027@example.com,,2026-01-02
+9028,user9028@example.com,ACCT#1041,2026-08-01
+9029,user9029@example.com,,
+9030,user9030@example.com,ACCT#1001,07/07/2026
+9031,user9031@example.com,,05-06-2026 14:22:00
+9032,user9032@example.com,ACCT#1006,2026-06-09
+9033,user9033@example.com,,22/06/2026
+9034,user9034@example.com,ACCT#1004,07-21-2026 14:22:00
+9035,user9035@example.com,,2026-04-14
+9036,user9036@example.com,ACCT#1046,01/02/2026
+9037,user9037@example.com,,03/08/2026
+9038,user9038@example.com,ACCT#1038,
+9039,user9039@example.com,,01-01-2026 14:22:00
+9040,user9040@example.com,ACCT#1008,23/07/2026
+9041,user9041@example.com,,03/08/2026
+9042,user9042@example.com,ACCT#1025,2026-02-24
+9043,user9043@example.com,,02-11-2026 14:22:00
+9044,user9044@example.com,ACCT#1020,13/03/2026
+9045,user9045@example.com,,2026-03-03
+9046,user9046@example.com,ACCT#1040,03-15-2026 14:22:00
+9047,user9047@example.com,,21/04/2026
+9048,user9048@example.com,ACCT#1027,
+9049,user9049@example.com,,2026-04-03
+9050,user9050@example.com,ACCT#1009,
+9051,user9051@example.com,,06-14-2026 14:22:00
+9052,user9052@example.com,ACCT#1009,2026-04-09
+9053,user9053@example.com,,04-18-2026 14:22:00
+9054,user9054@example.com,ACCT#1050,01-28-2026 14:22:00
+9055,user9055@example.com,,17/04/2026
+9056,user9056@example.com,ACCT#1048,2026-07-10
+9057,user9057@example.com,,
+9058,user9058@example.com,ACCT#1008,2026-04-16
+9059,user9059@example.com,,09-01-2026 14:22:00
+9060,user9060@example.com,ACCT#1021,
+9061,user9061@example.com,,18/06/2026
+9062,user9062@example.com,ACCT#1049,2026-08-25
+9063,user9063@example.com,,2026-01-19
+9064,user9064@example.com,ACCT#1001,2026-05-07
+9065,user9065@example.com,,
+9066,user9066@example.com,ACCT#1033,
+9067,user9067@example.com,,
+9068,user9068@example.com,ACCT#1006,18/09/2026
+9069,user9069@example.com,,05-03-2026 14:22:00
+9070,user9070@example.com,ACCT#1006,07/09/2026
+9071,user9071@example.com,,
+9072,user9072@example.com,ACCT#1038,
+9073,user9073@example.com,,02/04/2026
+9074,user9074@example.com,ACCT#1006,
+9075,user9075@example.com,,2026-10-20
+9076,user9076@example.com,ACCT#1020,2026-03-04
+9077,user9077@example.com,,2026-03-23
+9078,user9078@example.com,ACCT#1011,08-12-2026 14:22:00
+9079,user9079@example.com,,12/03/2026
+9080,user9080@example.com,ACCT#1048,2026-05-24
+9081,user9081@example.com,,
+9082,user9082@example.com,ACCT#1018,09-03-2026 14:22:00
+9083,user9083@example.com,,2026-10-21
+9084,user9084@example.com,ACCT#1032,08-17-2026 14:22:00
+9085,user9085@example.com,,16/01/2026
+9086,user9086@example.com,ACCT#1024,2026-03-09
+9087,user9087@example.com,,2026-10-22
+9088,user9088@example.com,ACCT#1015,2026-09-01
+9089,user9089@example.com,,2026-01-08
+9090,user9090@example.com,ACCT#1031,13/06/2026
+9091,user9091@example.com,,2026-03-28
+9092,user9092@example.com,ACCT#1036,07-08-2026 14:22:00
+9093,user9093@example.com,,04-14-2026 14:22:00
+9094,user9094@example.com,ACCT#1018,02-19-2026 14:22:00
+9095,user9095@example.com,,2026-02-17
+9096,user9096@example.com,ACCT#1012,2026-04-26
+9097,user9097@example.com,,
+9098,user9098@example.com,ACCT#1019,2026-05-11
+9099,user9099@example.com,,2026-09-15
+9100,user9100@example.com,ACCT#1024,04-10-2026 14:22:00

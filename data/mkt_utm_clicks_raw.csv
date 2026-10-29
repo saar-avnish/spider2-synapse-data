@@ -1,0 +1,151 @@
+click_uuid,visitor_guid,cmp_id,src_channel,click_ts
+clk_0,ck_42325,CMP_19 ,meta,08/06/2026
+clk_1,ck_40512,CMP_17 ,google,2026-01-28
+clk_2,ck_88907,CMP_20 ,google,2026-07-20
+clk_3,ck_26361,CMP_16 ,,08-17-2026 14:22:00
+clk_4,ck_93320,CMP_23 ,google,02-22-2026 14:22:00
+clk_5,ck_51347,CMP_20 ,meta,
+clk_6,ck_13478,CMP_17 ,google,17/05/2026
+clk_7,ck_20458,CMP_24 ,google,27/05/2026
+clk_8,ck_88907,CMP_15 ,google,2026-09-25
+clk_9,ck_97841,CMP_15 ,meta,01-04-2026 14:22:00
+clk_10,ck_44718,CMP_23 ,meta,02/04/2026
+clk_11,ck_44718,CMP_19 ,google,
+clk_12,ck_51245,CMP_11 ,,
+clk_13,ck_93320,CMP_12 ,meta,
+clk_14,ck_68878,CMP_24 ,,04-23-2026 14:22:00
+clk_15,ck_20328,CMP_20 ,,
+clk_16,ck_22280,CMP_13 ,google,2026-02-11
+clk_17,ck_37460,CMP_18 ,google,2026-10-08
+clk_18,ck_81482,CMP_21 ,,2026-01-08
+clk_19,ck_83579,CMP_10 ,meta,17/02/2026
+clk_20,ck_30379,CMP_20 ,meta,18/04/2026
+clk_21,ck_38785,CMP_24 ,,16/10/2026
+clk_22,ck_45093,CMP_17 ,meta,2026-04-04
+clk_23,ck_80010,CMP_16 ,meta,
+clk_24,ck_70142,CMP_21 ,google,
+clk_25,ck_99733,CMP_15 ,google,07/04/2026
+clk_26,ck_46434,CMP_17 ,google,07-06-2026 14:22:00
+clk_27,ck_19116,CMP_13 ,google,2026-08-26
+clk_28,ck_28289,CMP_20 ,,03/01/2026
+clk_29,ck_83563,CMP_16 ,meta,
+clk_30,ck_83579,CMP_10 ,google,
+clk_31,ck_54597,CMP_24 ,meta,
+clk_32,ck_88907,CMP_13 ,meta,2026-04-02
+clk_33,ck_17331,CMP_15 ,google,
+clk_34,ck_20458,CMP_24 ,,2026-03-02
+clk_35,ck_61856,CMP_12 ,google,03/10/2026
+clk_36,ck_20328,CMP_11 ,,2026-04-19
+clk_37,ck_94939,CMP_11 ,meta,10-19-2026 14:22:00
+clk_38,ck_66155,CMP_14 ,google,06-08-2026 14:22:00
+clk_39,ck_59615,CMP_12 ,,05-15-2026 14:22:00
+clk_40,ck_86622,CMP_22 ,google,2026-01-15
+clk_41,ck_81482,CMP_18 ,google,09/09/2026
+clk_42,ck_66155,CMP_15 ,google,04-12-2026 14:22:00
+clk_43,ck_13478,CMP_17 ,,2026-05-20
+clk_44,ck_42087,CMP_23 ,,2026-05-22
+clk_45,ck_44718,CMP_12 ,meta,04/02/2026
+clk_46,ck_46421,CMP_14 ,,04-23-2026 14:22:00
+clk_47,ck_38893,CMP_20 ,,
+clk_48,ck_65392,CMP_24 ,google,
+clk_49,ck_95909,CMP_14 ,google,11/01/2026
+clk_50,ck_89840,CMP_14 ,google,
+clk_51,ck_57819,CMP_10 ,google,23/02/2026
+clk_52,ck_69429,CMP_10 ,meta,18/10/2026
+clk_53,ck_91070,CMP_12 ,google,2026-05-12
+clk_54,ck_83579,CMP_15 ,google,2026-04-22
+clk_55,ck_44671,CMP_22 ,,20/07/2026
+clk_56,ck_86622,CMP_24 ,google,26/03/2026
+clk_57,ck_44718,CMP_16 ,google,03-24-2026 14:22:00
+clk_58,ck_45093,CMP_24 ,meta,09/04/2026
+clk_59,ck_45093,CMP_21 ,google,2026-07-28
+clk_60,ck_94259,CMP_17 ,google,
+clk_61,ck_89131,CMP_14 ,google,01/04/2026
+clk_62,ck_20328,CMP_15 ,meta,02-25-2026 14:22:00
+clk_63,ck_89131,CMP_20 ,,07-22-2026 14:22:00
+clk_64,ck_46048,CMP_11 ,meta,03-19-2026 14:22:00
+clk_65,ck_42098,CMP_11 ,,07-12-2026 14:22:00
+clk_66,ck_91070,CMP_19 ,,13/02/2026
+clk_67,ck_65392,CMP_10 ,,01/07/2026
+clk_68,ck_15695,CMP_16 ,google,06-20-2026 14:22:00
+clk_69,ck_80010,CMP_23 ,google,05-17-2026 14:22:00
+clk_70,ck_42087,CMP_16 ,meta,07-23-2026 14:22:00
+clk_71,ck_93320,CMP_12 ,google,
+clk_72,ck_31417,CMP_21 ,google,10-19-2026 14:22:00
+clk_73,ck_20328,CMP_18 ,google,10/05/2026
+clk_74,ck_91070,CMP_22 ,,10-21-2026 14:22:00
+clk_75,ck_19116,CMP_17 ,meta,
+clk_76,ck_18675,CMP_24 ,,2026-03-22
+clk_77,ck_38221,CMP_18 ,,2026-10-11
+clk_78,ck_51245,CMP_22 ,google,08/05/2026
+clk_79,ck_76237,CMP_10 ,google,2026-04-16
+clk_80,ck_35203,CMP_16 ,,
+clk_81,ck_47930,CMP_16 ,google,2026-03-21
+clk_82,ck_42325,CMP_22 ,google,08/07/2026
+clk_83,ck_37653,CMP_21 ,,02/08/2026
+clk_84,ck_44438,CMP_23 ,google,
+clk_85,ck_42087,CMP_18 ,,
+clk_86,ck_99593,CMP_23 ,,
+clk_87,ck_42325,CMP_12 ,,08-15-2026 14:22:00
+clk_88,ck_40021,CMP_13 ,,
+clk_89,ck_19358,CMP_13 ,meta,08-03-2026 14:22:00
+clk_90,ck_10851,CMP_14 ,meta,2026-06-18
+clk_91,ck_40495,CMP_12 ,google,23/07/2026
+clk_92,ck_93886,CMP_13 ,google,07-14-2026 14:22:00
+clk_93,ck_69429,CMP_17 ,meta,
+clk_94,ck_26361,CMP_24 ,,
+clk_95,ck_96673,CMP_10 ,meta,
+clk_96,ck_94259,CMP_24 ,meta,24/09/2026
+clk_97,ck_39871,CMP_13 ,meta,2026-07-16
+clk_98,ck_26361,CMP_15 ,,24/07/2026
+clk_99,ck_75435,CMP_17 ,google,2026-10-18
+clk_100,ck_80644,CMP_16 ,,2026-10-22
+clk_101,ck_21395,CMP_20 ,meta,
+clk_102,ck_95181,CMP_10 ,meta,11/07/2026
+clk_103,ck_35203,CMP_15 ,meta,
+clk_104,ck_65392,CMP_23 ,google,2026-08-01
+clk_105,ck_89131,CMP_13 ,,2026-02-25
+clk_106,ck_40021,CMP_10 ,google,2026-04-27
+clk_107,ck_94939,CMP_12 ,google,2026-03-16
+clk_108,ck_31319,CMP_13 ,meta,05-25-2026 14:22:00
+clk_109,ck_83563,CMP_19 ,,25/02/2026
+clk_110,ck_22156,CMP_11 ,,
+clk_111,ck_59615,CMP_21 ,google,19/02/2026
+clk_112,ck_14165,CMP_21 ,meta,2026-10-26
+clk_113,ck_18675,CMP_19 ,google,
+clk_114,ck_80010,CMP_15 ,google,09-21-2026 14:22:00
+clk_115,ck_24592,CMP_23 ,meta,
+clk_116,ck_15695,CMP_20 ,meta,14/03/2026
+clk_117,ck_99733,CMP_18 ,,
+clk_118,ck_19116,CMP_16 ,,10-09-2026 14:22:00
+clk_119,ck_94259,CMP_13 ,google,15/05/2026
+clk_120,ck_40021,CMP_17 ,,
+clk_121,ck_55082,CMP_10 ,meta,
+clk_122,ck_68878,CMP_15 ,meta,06-09-2026 14:22:00
+clk_123,ck_57819,CMP_10 ,,03/04/2026
+clk_124,ck_38785,CMP_16 ,meta,25/09/2026
+clk_125,ck_59735,CMP_17 ,,2026-08-15
+clk_126,ck_87397,CMP_14 ,google,23/07/2026
+clk_127,ck_22156,CMP_20 ,,06-16-2026 14:22:00
+clk_128,ck_92397,CMP_21 ,,
+clk_129,ck_46421,CMP_14 ,meta,04/04/2026
+clk_130,ck_59797,CMP_11 ,,25/09/2026
+clk_131,ck_81426,CMP_13 ,,08-09-2026 14:22:00
+clk_132,ck_65302,CMP_23 ,google,05-08-2026 14:22:00
+clk_133,ck_36062,CMP_14 ,google,09-05-2026 14:22:00
+clk_134,ck_39256,CMP_10 ,,23/05/2026
+clk_135,ck_89840,CMP_23 ,meta,2026-02-28
+clk_136,ck_58520,CMP_14 ,meta,08-15-2026 14:22:00
+clk_137,ck_95181,CMP_10 ,meta,2026-08-04
+clk_138,ck_20328,CMP_17 ,google,2026-10-21
+clk_139,ck_88907,CMP_12 ,,03/05/2026
+clk_140,ck_22280,CMP_18 ,meta,20/10/2026
+clk_141,ck_62581,CMP_18 ,meta,08-15-2026 14:22:00
+clk_142,ck_70142,CMP_19 ,meta,2026-05-19
+clk_143,ck_99593,CMP_21 ,google,21/04/2026
+clk_144,ck_54597,CMP_20 ,google,08/03/2026
+clk_145,ck_93320,CMP_11 ,google,
+clk_146,ck_59735,CMP_19 ,meta,02/05/2026
+clk_147,ck_38221,CMP_21 ,meta,03/08/2026
+clk_148,ck_86622,CMP_14 ,,22/10/2026
+clk_149,ck_92397,CMP_11 ,,21/04/2026
